@@ -1,0 +1,5 @@
+* blogs
+
+** Functional Programming
+   1. [[https://ericlippert.com][ericlippert]] : There is a seris of blogs talking about how to built a text advanced game using OCaml.
+   2. 
